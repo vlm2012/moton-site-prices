@@ -21,19 +21,19 @@ def main() -> None:
         page = response.read().decode("utf-8", errors="replace")
 
     loader = re.search(
-        r'<script\\b(?=[^>]*\\bid=["\\']moton-products-loader["\\'])[^>]*>(.*?)</script\\s*>',
+        r"""<script\b(?=[^>]*\bid=["']moton-products-loader["'])[^>]*>(.*?)</script\s*>""",
         page,
         re.IGNORECASE | re.DOTALL,
     )
     if not loader:
         raise RuntimeError("MOTON catalog loader was not found")
-    encoded = re.search(r"atob\\(['\\"]([^'\\"]+)['\\"]\\)", loader.group(1))
+    encoded = re.search(r"""atob\(['"]([^'"]+)['"]\)""", loader.group(1))
     if not encoded:
         raise RuntimeError("Compressed catalog data was not found")
 
     decoded = zlib.decompress(base64.b64decode(encoded.group(1))).decode("utf-8")
     products_match = re.search(
-        r"var products=(\\[.*?\\]);var root=document\\.getElementById",
+        r"""var products=(\[.*?\]);var root=document\.getElementById""",
         decoded,
         re.DOTALL,
     )
@@ -66,7 +66,7 @@ def main() -> None:
         "products": variants,
     }
     Path("prices.json").write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2) + "\\n",
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
     print(f"Refreshed {len(variants)} variants from {len(products)} products")
