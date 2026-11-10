@@ -1,6 +1,6 @@
 {
   "source": "https://moton.by/catalog",
-  "updated_at": "2026-11-10T17:49:58+00:00",
+  "updated_at": "2026-11-10T23:21:31+00:00",
   "products": [
     {
       "sku": "10011l",
@@ -6126,6 +6126,48 @@
       "brand": "LOPAL",
       "name": "Масло трансмиссионное LOPAL CVTF 200",
       "volume": 1
+    },
+    {
+      "sku": "1900220",
+      "price": 32.5,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra UP FE 5W-30",
+      "volume": 1
+    },
+    {
+      "sku": "1900221",
+      "price": 125.6,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra UP FE 5W-30",
+      "volume": 4
+    },
+    {
+      "sku": "1900219",
+      "price": 136.5,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra UP FE 0W-20",
+      "volume": 4
+    },
+    {
+      "sku": "1900222",
+      "price": 43.3,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra ESF 0W-20",
+      "volume": 1
+    },
+    {
+      "sku": "1900226",
+      "price": 36.1,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra ESF 5W-40",
+      "volume": 1
+    },
+    {
+      "sku": "1900227",
+      "price": 139,
+      "brand": "LOPAL",
+      "name": "Масло моторное LOPAL Ultra ESF 5W-40",
+      "volume": 4
     }
   ]
 }
