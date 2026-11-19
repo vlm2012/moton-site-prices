@@ -1,6 +1,6 @@
 {
   "source": "https://moton.by/catalog",
-  "updated_at": "2026-11-19T13:05:53+00:00",
+  "updated_at": "2026-11-19T21:33:32+00:00",
   "products": [
     {
       "sku": "10011l",
@@ -6448,6 +6448,566 @@
       "brand": "FUCHS",
       "name": "Масло моторное FUCHS TITAN CARGO MAXX II 10W-40",
       "volume": 20
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 15W50/1",
+      "price": 28.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 15W50",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 10W40/20",
+      "price": 411,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 10W40",
+      "volume": 20
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 10W40/1",
+      "price": 32.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 10W40",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 10W40/4",
+      "price": 116.9,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 10W40",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 0W40 I-SINT/1",
+      "price": 36.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W40 I-SINT",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 0W40 I-SINT/5",
+      "price": 158,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W40 I-SINT",
+      "volume": 5
+    },
+    {
+      "sku": "ENI 10W30 I-SIGMA TOP MS/20",
+      "price": 590.5,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W30 I-SIGMA TOP MS",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 10W30 I-SIGMA TOP MS/205",
+      "price": 5330.3,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W30 I-SIGMA TOP MS",
+      "volume": 205
+    },
+    {
+      "sku": "ENI 10W40 I-SIGMA TOP MS/20",
+      "price": 581,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SIGMA TOP MS",
+      "volume": 20
+    },
+    {
+      "sku": "ENI I-RIDE RACING 10W60/1",
+      "price": 39.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING 10W60",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE RACING 5W40/1",
+      "price": 32.2,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING 5W40",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W30 I-SINT TECH P/1",
+      "price": 44.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SINT TECH P",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 0W20 I-SINT/4",
+      "price": 133.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W20 I-SINT",
+      "volume": 4
+    },
+    {
+      "sku": "ENI MIX 2T/1",
+      "price": 30.5,
+      "brand": "ENI",
+      "name": "Масло моторное ENI MIX 2T",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W20 I-SINT TECH ECO F/1",
+      "price": 37.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W20 I-SINT TECH ECO F",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W20 I-SINT TECH ECO F/4",
+      "price": 149.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W20 I-SINT TECH ECO F",
+      "volume": 4
+    },
+    {
+      "sku": "ENI I-RIDE RACING OFFROAD 10W50/1",
+      "price": 40.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING OFFROAD 10W50",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE RACING OFFROAD 10W50/4",
+      "price": 133.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING OFFROAD 10W50",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 10W40 I-SINT PROFESSIONAL/4",
+      "price": 114.5,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SINT PROFESSIONAL",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 10W40 I-SINT PROFESSIONAL/1",
+      "price": 29.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SINT PROFESSIONAL",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 10W40 I-SINT PROFESSIONAL/20",
+      "price": 511.3,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SINT PROFESSIONAL",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 10W40 GAS SPECIAL/4",
+      "price": 81.9,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 GAS SPECIAL",
+      "volume": 4
+    },
+    {
+      "sku": "ENI I-RIDE RACING 2T/1",
+      "price": 53.9,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING 2T",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE SPECIAL 20W50/1",
+      "price": 25.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE SPECIAL 20W50",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 10W40 I-SIGMA SPECIAL TMS/20",
+      "price": 640.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SIGMA SPECIAL TMS",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 0W30 I-SINT TECH P/1",
+      "price": 42.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W30 I-SINT TECH P",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 10W40 I-BASE PROFESSIONAL/1",
+      "price": 27.5,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-BASE PROFESSIONAL",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 0W30 I-SINT TECH VK/1",
+      "price": 37.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W30 I-SINT TECH VK",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-SEA OUTBOARD 2T/1",
+      "price": 37.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-SEA OUTBOARD 2T",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W40 I-SINT PROFESSIONAL/4",
+      "price": 129.1,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT PROFESSIONAL",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 5W40 I-SINT PROFESSIONAL/1",
+      "price": 34.5,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT PROFESSIONAL",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W40 I-SINT PROFESSIONAL/20",
+      "price": 617.3,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT PROFESSIONAL",
+      "volume": 20
+    },
+    {
+      "sku": "ENI I-RIDE RACING 10W50/1",
+      "price": 37.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE RACING 10W50",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W30 I-SINT PROFESSIONAL MS/1",
+      "price": 36.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SINT PROFESSIONAL MS",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W30 I-SINT PROFESSIONAL MS/4",
+      "price": 140.7,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SINT PROFESSIONAL MS",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 5W30 I-SINT/4",
+      "price": 160.3,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SINT",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 0W30 I-SINT TECH/1",
+      "price": 34.1,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W30 I-SINT TECH",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 0W30 I-SINT TECH/4",
+      "price": 145.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 0W30 I-SINT TECH",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 10W40 I-SINT/4",
+      "price": 125.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SINT",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 10W40 I-SINT/1",
+      "price": 32.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SINT",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W40 I-SINT MS/4",
+      "price": 161.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT MS",
+      "volume": 4
+    },
+    {
+      "sku": "ENI 5W40 I-SINT MS/1",
+      "price": 42.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT MS",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W40 I-SINT MS/20",
+      "price": 745.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT MS",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 5W30 I-SINT TECH R/1",
+      "price": 45.9,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SINT TECH R",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 5W40 I-SINT/4",
+      "price": 137.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W40 I-SINT",
+      "volume": 4
+    },
+    {
+      "sku": "ENI I-RIDE SCOOTER 10W40/1",
+      "price": 28.2,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE SCOOTER 10W40",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 20W50/1",
+      "price": 51.6,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 20W50",
+      "volume": 1
+    },
+    {
+      "sku": "ENI I-RIDE MOTO 10W30/1",
+      "price": 32.2,
+      "brand": "ENI",
+      "name": "Масло моторное ENI I-RIDE MOTO 10W30",
+      "volume": 1
+    },
+    {
+      "sku": "ENI 10W40 I-SIGMA PERFORMANCE E4/20",
+      "price": 599.8,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SIGMA PERFORMANCE E4",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 10W40 I-SIGMA TOP/20",
+      "price": 615,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SIGMA TOP",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 10W40 I-SIGMA UNIVERSAL/20",
+      "price": 602.4,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 10W40 I-SIGMA UNIVERSAL",
+      "volume": 20
+    },
+    {
+      "sku": "ENI 5W30 I-SIGMA TOP MS/20",
+      "price": 792.1,
+      "brand": "ENI",
+      "name": "Масло моторное ENI 5W30 I-SIGMA TOP MS",
+      "volume": 20
+    },
+    {
+      "sku": "TOTAL 5W40 QUARTZ 9000/5",
+      "price": 177.8,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W40 QUARTZ 9000",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ INEO FIRST/4",
+      "price": 211.9,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ INEO FIRST",
+      "volume": 4
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ INEO FIRST/5",
+      "price": 264.9,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ INEO FIRST",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ INEO LONG LIFE/5",
+      "price": 220,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ INEO LONG LIFE",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ INEO MC3/1",
+      "price": 46.2,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ INEO MC3",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ 9000 ENERGY/1",
+      "price": 32.6,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ 9000 ENERGY",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ 9000 ENERGY/5",
+      "price": 149.5,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ 9000 ENERGY",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 5W40 QUARTZ 9000 ENERGY/1",
+      "price": 39,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W40 QUARTZ 9000 ENERGY",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000/1",
+      "price": 29.4,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000/4",
+      "price": 105.8,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000",
+      "volume": 4
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000/5",
+      "price": 132.3,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000 DIESEL/1",
+      "price": 30.5,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000 DIESEL",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000 DIESEL/5",
+      "price": 144.6,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000 DIESEL",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000 ENERGY/1",
+      "price": 28.5,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000 ENERGY",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ 7000 ENERGY/4",
+      "price": 107,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ 7000 ENERGY",
+      "volume": 4
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ 9000 FUTURE FGC/1",
+      "price": 44.8,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ 9000 FUTURE FGC",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ 9000/1",
+      "price": 33.4,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ 9000",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 0W30 QUARTZ 9000/5",
+      "price": 150.8,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 0W30 QUARTZ 9000",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ 9000 HKR/1",
+      "price": 41.4,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ 9000 HKR",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ 9000 HKR/5",
+      "price": 197.8,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ 9000 HKR",
+      "volume": 5
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ 9000 NFC/1",
+      "price": 36,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ 9000 NFC",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 5W30 QUARTZ INEO RCP/1",
+      "price": 59.3,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 5W30 QUARTZ INEO RCP",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 CLASSIC 7/1",
+      "price": 22.5,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 CLASSIC 7",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 QUARTZ EV3R/1",
+      "price": 23.4,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 QUARTZ EV3R",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 20W50 HI-PERF 4T 500/1",
+      "price": 33,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 20W50 HI-PERF 4T 500",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W40 HI-PERF 4T 700/1",
+      "price": 32.4,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W40 HI-PERF 4T 700",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 15W50 HI-PERF 4T 700/1",
+      "price": 36.9,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 15W50 HI-PERF 4T 700",
+      "volume": 1
+    },
+    {
+      "sku": "TOTAL 10W50 HI-PERF 4T 900/1",
+      "price": 37.7,
+      "brand": "TOTAL",
+      "name": "Масло моторное TOTAL 10W50 HI-PERF 4T 900",
+      "volume": 1
     }
   ]
 }
